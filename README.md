@@ -18,7 +18,7 @@ AlgStD
 
 Склонируйте репозиторий:
 
-git clone https://github.com/<твое_имя>/AlgStD.git
+git clone https://github.com/ObliviosName/AlgStD.git
 cd AlgStD
 
 
