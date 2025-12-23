@@ -1,0 +1,9 @@
+# binaries
+*.exe
+*.o
+
+# temporary files
+*~
+
+# Windows junk
+Thumbs.db
